@@ -1,5 +1,5 @@
 # Investment-Opportunity-Analysis-EDA
-Let us understand how to explore the data in python
+Let us understand how to explore the data in python and uncover potential investments through data-driven insights and market analysis.
 
 # Introduction¶
 
